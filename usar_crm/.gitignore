@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Frontend
+travel-crm/frontend/node_modules/
+travel-crm/frontend/.next/
+travel-crm/frontend/.env.local
+
+# Backend build
+travel-crm/backend/target/
+
+# Env secrets
+.env
+*.env
+
+# Logs
+*.log
+
+# Docker volumes
+postgres_data/
